@@ -31,8 +31,6 @@ A comprehensive survey course in statistical theory and methodology. Topics incl
 
 Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.  Six hours of Lecture and  Four hours of Laboratory per week for 8 weeks.
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 STAT 134 or STAT 140; and MATH 54, EL ENG 16A, STAT 89A, MATH 110 or equivalent linear algebra. Strongly recommended corerequisite: STAT 133.
