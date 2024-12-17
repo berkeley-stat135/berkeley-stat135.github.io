@@ -16,13 +16,13 @@
 title: "Stat 135: Concepts of Statistics"
 tagline: Course Overview
 description: "A comprehensive survey course in statistical theory and methodology. Topics include descriptive statistics, maximum likelihood estimation, non-parametric methods, introduction to optimality, goodness-of-fit tests, analysis of variance, bootstrap and computer-intensive methods and least squares estimation. The laboratory includes computer-based data-analytic applications to science and engineering. "
-author: SCF
+author: "SCF"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat135.berkeley.edu'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: 'resources/stat_bear.png'
+logo: 'resources/logo.png'
 
-ga_tracking: G-F1KPS1FHQ9
+ga_tracking: "G-"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.7.0
