@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Spring 2026](fall-2026)
 1. [Fall 2024](fall-2024)
 
 
@@ -32,4 +33,4 @@ Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.  Six 
 
 ## Prerequisites
 
-STAT 134 or STAT 140; and MATH 54, ELENG 16A, STAT 89A, MATH 110 or equivalent linear algebra. Strongly recommended corerequisite: STAT 133.
+STAT 134 or STAT 140; and MATH 54, EL ENG 16A, STAT 89A, MATH 110 or equivalent linear algebra. Strongly recommended corerequisite: STAT 133.
